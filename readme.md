@@ -1,4 +1,48 @@
-# 50 Projects in 50 Days - HTML/CSS and JavaScript
+<div align="center">
+  <h1>50 Projects in 50 Days - HTML/CSS and JavaScript</h1>
+
+<!-- Badges -->
+<p>
+  <a href="https://github.com/harun181/50_Project_in_50_Days/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="contributors" />
+  </a>
+  <a href="https://github.com/harun181/50_Project_in_50_Days/graphs/commit-activity">
+    <img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
+  </a>
+  <a href="https://github.com/harun181/50_Project_in_50_Days/network/members">
+    <img src="https://img.shields.io/github/forks/Louis3797/awesome-readme-template" alt="forks" />
+  </a>
+  <a href="https://github.com/harun181/50_Project_in_50_Days/stargazers">
+    <img src="https://img.shields.io/github/stars/Louis3797/awesome-readme-template" alt="stars" />
+  </a>
+  <a href="https://github.com/harun181/50_Project_in_50_Days/issues/">
+    <img src="https://img.shields.io/github/issues/Louis3797/awesome-readme-template" alt="open issues" />
+  </a>
+  <a href="https://github.com/harun181/50_Project_in_50_Days/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/Louis3797/awesome-readme-template.svg" alt="license" />
+  </a>
+</p>
+
+<h4>
+    <a href="https://github.com/harun181/50_Project_in_50_Days/">View Demo</a>
+  <span> · </span>
+    <a href="https://github.com/harun181/50_Project_in_50_Days/">Documentation</a>
+  <span> · </span>
+    <a href="https://github.com/harun181/50_Project_in_50_Days/issues/">Report Bug</a>
+  <span> · </span>
+    <a href="https://github.com/harun181/50_Project_in_50_Days/issues/">Request Feature</a>
+  </h4>
+</div>
+
+<br />
+
+<!-- About the Project -->
+
+## :star2: About the Project
+
+Here is the all of my 50 Projects in 50 Days - HTML/CSS and JavaScript with source code & live preview.
+
+# Projects & Preview Link
 
 |  #  | Project                                                                                                                   | Live Demo                                                                              |
 | :-: | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
@@ -54,3 +98,12 @@
 | 50  | [Insect Catch Game](https://github.com/bradtraversy/50projects50days/tree/master/insect-catch-game)                       | [Live Demo](https://50projects50days.com/projects/insect-catch-game/)                  |
 
 ** Thank You **
+
+<!-- Contact -->
+
+## :handshake: Contact
+
+Your Name - [@tutul181](https://twitter.com/tutul181) - mdtutul763@gmail.com
+
+Project Link: [https://github.com/harun181/50_Project_in_50_Days/v0.1](https://github.com/harun181/50_Project_in_50_Days)
+
